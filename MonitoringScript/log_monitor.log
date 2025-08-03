@@ -1,1 +1,0 @@
-[ALERT] Sun Aug  3 07:36:52 PM CEST 2025: 2025-08-03T19:36:52.733971+02:00 frank-ThinkPad-E580 kernel: i915 0000:00:02.0: [drm] *ERROR* Atomic update failure on pipe B (start=108642 end=108643) time 1138 us, min 1066, max 1079, scanline start 968, end 1121
